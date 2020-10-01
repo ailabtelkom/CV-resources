@@ -20,4 +20,7 @@ Dikelompokkan berdasarkan _task_ Computer Vision
 - Dataset pengenalan gerakan bibir bahasa Indonesia [[Link]](https://drive.google.com/drive/folders/1OQQ9UKMzuy56kJ7-A8j9-77gKUhY0shZ)
 - Hand Gesture [[Link]](https://20bn.com/datasets/jester)
 
+### Character Recognition
+- Balinese Character Dataset (AMADI Lontar Set) [[Paper]](https://ieeexplore.ieee.org/document/7814058) [[Link]](http://amadi.univ-lr.fr/ICFHR2016_Contest/index.php/download-123)
+
 # Other
