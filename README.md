@@ -18,5 +18,6 @@ Dikelompokkan berdasarkan _task_ Computer Vision
 
 ### Image Recognition
 - Dataset pengenalan gerakan bibir bahasa Indonesia [[Link]](https://drive.google.com/drive/folders/1OQQ9UKMzuy56kJ7-A8j9-77gKUhY0shZ)
+- Hand Gesture [[Link]](https://20bn.com/datasets/jester)
 
 # Other
