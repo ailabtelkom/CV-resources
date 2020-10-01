@@ -1,9 +1,8 @@
 # Computer Vision Resource
 
 Title | Description | URL | Author
-----------------------------------
+----- | ----------- | --- | ----
 Computer Vision Resource | Data resources Computer Vision. This repository was made for student, researcher, who else that was doing a research or anything about Image Processing and ComputerVision | https://ailabtelkom.github.io/resources/image | author: '@everyone'
-----------------------------------
 
 ## Dataset
 Grouped by Computer Vision _task_
