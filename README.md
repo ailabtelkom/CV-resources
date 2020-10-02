@@ -1,8 +1,15 @@
-# Computer Vision Resource
+---
+# this is is not a regular markdown table, this a "front-matter"
+# this contain metadata to render to website
+# so please don't edit this unless you need to :)
+# https://github.com/jonschlinkert/gray-matter
+title: 'Bahasa Indonesia NLP Resource'
+desc: 'Kumpulan _resource_ untuk Pemrosesan bahasa alami Bahasa Indonesia. Repository ini dibuat untuk membantu _Researcher_/Mahasiswa yang sedang membuat tugas akhir atau penelitian tentang pemrosesan bahasa alami yang menggunakan Bahasa Indonesia.'
+url: 'https://ailabtelkom.github.io/resources/nlp'
+author: '@everyone'
+---
 
-Title | Description | URL | Author
------ | ----------- | --- | ----
-Computer Vision Resource | Data resources Computer Vision. This repository was made for student, researcher, who else that was doing a research or anything about Image Processing and Computer Vision | https://ailabtelkom.github.io/resources/image | @everyone
+# Computer Vision Resource
 
 ## Dataset
 Grouped by Computer Vision _task_
