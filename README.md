@@ -10,6 +10,7 @@ author: '@everyone'
 ---
 
 # Computer Vision Resource
+Kumpulan _resource_ untuk Pemrosesan bahasa alami Bahasa Indonesia. Repository ini dibuat untuk membantu _Researcher_/Mahasiswa yang sedang membuat tugas akhir atau penelitian tentang pemrosesan bahasa alami yang menggunakan Bahasa Indonesia.
 
 ## Dataset
 Grouped by Computer Vision _task_
