@@ -3,14 +3,14 @@
 # this contain metadata to render to website
 # so please don't edit this unless you need to :)
 # https://github.com/jonschlinkert/gray-matter
-title: 'Bahasa Indonesia NLP Resource'
-desc: 'Kumpulan _resource_ untuk Pemrosesan bahasa alami Bahasa Indonesia. Repository ini dibuat untuk membantu _Researcher_/Mahasiswa yang sedang membuat tugas akhir atau penelitian tentang pemrosesan bahasa alami yang menggunakan Bahasa Indonesia.'
-url: 'https://ailabtelkom.github.io/resources/nlp'
+title: 'Computer Vision Resource'
+desc: 'Data resources Computer Vision. This repository was made for student, researcher, who else that was doing a research or anything about Image Processing and Computer Vision'
+url: 'https://ailabtelkom.github.io/resources/image'
 author: '@everyone'
 ---
 
 # Computer Vision Resource
-Kumpulan _resource_ untuk Pemrosesan bahasa alami Bahasa Indonesia. Repository ini dibuat untuk membantu _Researcher_/Mahasiswa yang sedang membuat tugas akhir atau penelitian tentang pemrosesan bahasa alami yang menggunakan Bahasa Indonesia.
+Data resources Computer Vision. This repository was made for student, researcher, who else that was doing a research or anything about Image Processing and Computer Vision.
 
 ## Dataset
 Grouped by Computer Vision _task_
