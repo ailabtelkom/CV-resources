@@ -22,6 +22,9 @@ Grouped by Computer Vision _task_
 - Datasets for lip recognition in Indonesian langueage [[Link]](https://drive.google.com/drive/folders/1OQQ9UKMzuy56kJ7-A8j9-77gKUhY0shZ)
 - Hand Gesture [[Link]](https://20bn.com/datasets/jester) _Paper SOON for publish_
 
+### Image Classification
+- Facemask Dataset [[Link]](https://drive.google.com/drive/folders/1NS0oTZucpEesUtHsqe2ZEVFEMZxgPq1M?usp=sharing)[[Github]](https://github.com/evanezcent/Face-Mask-Detection)
+
 ### Character Recognition
 - Balinese Character Dataset (AMADI Lontar Set) [[Paper]](https://ieeexplore.ieee.org/document/7814058) [[Link]](http://amadi.univ-lr.fr/ICFHR2016_Contest/index.php/download-123)
 
