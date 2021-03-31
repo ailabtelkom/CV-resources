@@ -17,7 +17,7 @@ Grouped by Computer Vision _task_
 
 ### Image Translation
 - Robotcar Dataset [[Link]](https://robotcar-dataset.robots.ox.ac.uk/datasets/) [[Paper]](https://arxiv.org/pdf/1809.09767.pdf) [[Github]](https://github.com/AAnoosheh/ToDayGAN)
-- Paired Night and Day Image [[Paper]](https://repository.telkomuniversity.ac.id/pustaka/166788/translasi-citra-malam-menjadi-citra-siang-menggunakan-deep-convolutional-generative-adversarial-network.html) [[Link]](https://drive.google.com/drive/folders/1W0DIj-2M-BCVi4FfPsl_zYhNS304Uh1K?usp=sharing) [[Github]](https://github.com/evanezcent/Night-to-Day-Image-Translation-using-DCGAN)
+- Paired Night and Day Image [[Link]](https://drive.google.com/drive/folders/1W0DIj-2M-BCVi4FfPsl_zYhNS304Uh1K?usp=sharing) [[Paper]](https://repository.telkomuniversity.ac.id/pustaka/166788/translasi-citra-malam-menjadi-citra-siang-menggunakan-deep-convolutional-generative-adversarial-network.html) [[Github]](https://github.com/evanezcent/Night-to-Day-Image-Translation-using-DCGAN)
 
 ### Image Recognition
 - Datasets for lip recognition in Indonesian langueage [[Link]](https://drive.google.com/drive/folders/1OQQ9UKMzuy56kJ7-A8j9-77gKUhY0shZ)
